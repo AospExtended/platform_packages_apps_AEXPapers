@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 XenonHD
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+
+    <string name="app_name">ValidusWalls</string>
+    <string name="solid_color">Solid color</string>
+    <string name="pick_color">Pick a color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="orange">Orange</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="action_apply">Apply</string>
+    <string name="applying">Applying selected wallpaper</string>
+
+</resources>

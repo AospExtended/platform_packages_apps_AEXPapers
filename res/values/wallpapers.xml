@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 XenonHD
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_0</item>
+        <item>wallpaper_1</item>
+        <item>wallpaper_2</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Ribbon</item>
+        <item>Teeth</item>
+        <item>V</item>
+    </string-array>
+</resources>
