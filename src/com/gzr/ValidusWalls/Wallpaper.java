@@ -100,6 +100,7 @@ public class Wallpaper extends FragmentActivity {
         final String packageName = getApplication().getPackageName();
 
         fetchWallpapers(resources, packageName, R.array.wallpapers);
+	mSectionsPagerAdapter.notifyDataSetChanged();
         mWallpaperInfo = resources.getStringArray(R.array.info);
     }
 
