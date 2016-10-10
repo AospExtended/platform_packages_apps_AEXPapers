@@ -17,15 +17,18 @@ rm -rf res/values/wallpapers.xml
 
 for wallpaper in wallpapers/*; do
     echo $wallpaper
+    wallpaper_name=`basename $wallpaper`
+    wallpaper_name=${wallpaper_name//-/_}
+    wallpaper_name=`echo $wallpaper_name | cut -d'.' -f1`
+    resolution="${resolutions[@]}"
     for n in "${!resolutions[@]}"; do
-        r="${resolutions[$n]}"
-        wn=`basename $wallpaper`
-        wn=${wn//-/_}
+        resolution="${resolutions[$n]}"
         if [ ! -d res/drawable-$n ]; then
             mkdir -p res/drawable-$n
         fi
-        convert $wallpaper -resize $r png24:res/drawable-$n/`echo $wn | cut -d'.' -f1`.png
+        convert $wallpaper -resize $resolution png24:res/drawable-$n/$wallpaper_name.png
     done
+    convert $wallpaper -resize 213x178 png24:res/drawable-nodpi/"$wallpaper_name"_small.png
 done
 
 cat <<'EOF' >> res/values/wallpapers.xml
