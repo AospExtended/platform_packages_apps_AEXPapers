@@ -12,7 +12,7 @@ resolutions[xhdpi]=1440x1280
 resolutions[xxhdpi]=2160x1920
 resolutions[xxxhdpi]=2880x2560
 
-rm -rf res/drawable*
+rm $(ls res/drawable*/ | grep -v aex_icon.png)
 rm -rf res/values/wallpapers.xml
 
 for wallpaper in wallpapers/*; do
@@ -34,7 +34,7 @@ done
 cat <<'EOF' >> res/values/wallpapers.xml
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016 The SlimRoms Project
+     Copyright (C) 2016 AospExtended ROM Project
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
