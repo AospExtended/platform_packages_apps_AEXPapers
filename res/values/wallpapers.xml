@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016 The SlimRoms Project
+     Copyright (C) 2016 AospExtended ROM Project
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -13,16 +13,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
-        <item>slim_dark_fadingfire</item>
-        <item>slim_dark_fadingpurple</item>
-        <item>slim_dark_greenyellow</item>
-        <item>slim_light_blue</item>
-        <item>slim_light_brightyellow</item>
-        <item>slim_light_darkblue</item>
-        <item>slim_light_green</item>
-        <item>slim_light_red</item>
-        <item>slim_light_standard</item>
-        <item>slim_light_yellow</item>
-        <item>slim_material01</item>
+        <item>aex_black_logo</item>
+        <item>aex_dark_gray_circle</item>
+        <item>aex_dark_material1</item>
+        <item>aex_dark_material2</item>
+        <item>aex_dark_material3</item>
+        <item>aex_dark_material4</item>
+        <item>aex_dark_material5</item>
+        <item>aex_dark_material6</item>
+        <item>aex_dark_material7</item>
+        <item>aex_dark_outline_logo</item>
     </string-array>
 </resources>

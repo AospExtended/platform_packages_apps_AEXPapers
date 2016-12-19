@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2016 The SlimRoms Project
+# Copyright (C) 2016 AospExtended ROM Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,5 +19,5 @@ include $(CLEAR_VARS)
 
 LOCAL_SRC_FILES := $(call all-subdir-java-files)
 LOCAL_MODULE_TAGS := optional
-LOCAL_PACKAGE_NAME := SlimWallpapers
+LOCAL_PACKAGE_NAME := AEXPapers
 include $(BUILD_PACKAGE)

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="org.slim.wallpapers">
+      package="org.aospextended.aexpapers">
 
-    <application android:label="@string/app_name">
+    <application android:label="@string/app_name" android:icon="@drawable/aex_icon" >
         <receiver android:name=".PartnerWallpapers">
             <intent-filter>
                 <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION"/>
