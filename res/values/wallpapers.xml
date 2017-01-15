@@ -27,23 +27,23 @@
         <item>material_light_by_krapk</item>
         <item>aex_moonlight</item>
         <item>watchdog_by_krapk</item>
-        <item>Aex_new_by_KrapK</item>
-        <item>NEONgreyaccent_by_Azeem_Shaikh</item>
-        <item>NEONblackaccent_by_Azeem_Shaikh</item>
-        <item>Aex_tree_by_GabrielBercelli</item>
-        <item>Aex_Dark_by_BadBoy</item>
-        <item>Aex_color_by_BadBoy</item>
-        <item>Aex_material_1_by_BadBoy</item>
-        <item>Aex_material_2_by_BadBoy</item>
-        <item>Aex_bubbles_GabrielBercelli</item>
-        <item>Aex_StarWars_GabrielBercelli</item>
-        <item>Aex_Night_GabrielBercelli</item>
-        <item>Aex_moon_GabrielBercelli</item>
-        <item>Aex_monstors_RenanLopes</item>
-        <item>Aex_coat_RenanLopes</item>
-        <item>Aex_pc_RenanLopes</item>
-        <item>Aex_germansoldiersilhouette_RenanLopes</item>
-        <item>Aex_vintage_RenanLopes</item>
-        <item>Aex_alien_RenanLopes</item>
+        <item>aex_new_by_krapk</item>
+        <item>neongreyaccent_by_azeem_shaikh</item>
+        <item>neonblackaccent_by_azeem_shaikh</item>
+        <item>aex_tree_by_gabrielbercelli</item>
+        <item>aex_dark_by_badboy</item>
+        <item>aex_color_by_badboy</item>
+        <item>aex_material_1_by_badboy</item>
+        <item>aex_material_2_by_badboy</item>
+        <item>aex_bubbles_gabrielbercelli</item>
+        <item>aex_starwars_gabrielbercelli</item>
+        <item>aex_night_gabrielbercelli</item>
+        <item>aex_moon_gabrielbercelli</item>
+        <item>aex_monstors_renanlopes</item>
+        <item>aex_coat_renanlopes</item>
+        <item>aex_pc_renanlopes</item>
+        <item>aex_germansoldiersilhouette_renanlopes</item>
+        <item>aex_vintage_renanlopes</item>
+        <item>aex_alien_renanlopes</item>
     </string-array>
 </resources>
