@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.gzr.ValidusWalls" android:versionName="1.1" android:versionCode="2">
+    package="org.aospextended.aexpapers" android:versionName="1.1" android:versionCode="2">
     
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     

@@ -12,11 +12,69 @@
     <item>wallpaper_0</item>
     <item>wallpaper_1</item>
     <item>wallpaper_2</item>
+    <item>wallpaper_3</item>
+    <item>wallpaper_4</item>
+    <item>wallpaper_5</item>
+    <item>wallpaper_6</item>
+    <item>wallpaper_7</item>
+    <item>wallpaper_8</item>
+    <item>wallpaper_9</item>
+    <item>wallpaper_10</item>
+    <item>wallpaper_11</item>
+    <item>wallpaper_12</item>
+    <item>wallpaper_13</item>
+    <item>wallpaper_14</item>
+    <item>wallpaper_15</item>
+    <item>wallpaper_16</item>
+    <item>wallpaper_17</item>
+    <item>wallpaper_18</item>
+    <item>wallpaper_19</item>
+    <item>wallpaper_20</item>
+    <item>wallpaper_21</item>
+    <item>wallpaper_22</item>
+    <item>wallpaper_23</item>
+    <item>wallpaper_24</item>
+    <item>wallpaper_25</item>
+    <item>wallpaper_26</item>
+    <item>wallpaper_27</item>
+    <item>wallpaper_28</item>
+    <item>wallpaper_29</item>
+    <item>wallpaper_30</item>
+    <item>wallpaper_31</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>Ribbon</item>
-    <item>Teeth</item>
-    <item>V</item>
+    <item>Pitch Black by Krapk</item>
+    <item>Alien by Renan Lopes</item>
+    <item>Starwars by Gabriel Bercelli</item>
+    <item>Watchdog by Krapk</item>
+    <item>Night by Gabriel Bercelli</item>
+    <item>Vintage by Renan Lopes</item>
+    <item>Material Dark by Krapk</item>
+    <item>Material Light by Krapk</item>
+    <item>Colors by BadBoy</item>
+    <item>Darkness by BadBoy</item>
+    <item>German Soldier by Renan Lopes</item>
+    <item>PC by Renan Lopes</item>
+    <item>Material Park by Gabriel Bercelli</item>
+    <item>NeonBlack Accent by Azeem Shaikh</item>
+    <item>NeonGrey Accent by Azeem Shaikh</item>
+    <item>Moon by Gabriel Bercelli</item>
+    <item>Monstors by Renan Lopes</item>
+    <item>Bubbles by Gabriel Bercelli</item>
+    <item>Day by Renan Lopes</item>
+    <item>Material Blue by BadBoy</item>
+    <item>Material Brown by BadBoy</item>
+    <item>Moonlight by Hamza</item>
+    <item>Logo Black by Yasan</item>
+    <item>Dark Grey by Yasan</item>
+    <item>Dark Material1 by Yasan</item>
+    <item>Dark Material2 by Yasan</item>
+    <item>Dark Material3 by Yasan</item>
+    <item>Dark Material4 by Yasan</item>
+    <item>Dark Material5 by Yasan</item>
+    <item>Dark Material6 by Yasan</item>
+    <item>Dark Material7 by Yasan</item>
+    <item>Logo Outline by Yasan</item>
     </string-array>
 </resources>
