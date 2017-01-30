@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 XenonHD
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+
+    <string name="app_name">Papéis de paredes AEX</string>
+    <string name="solid_color">Cor sólida</string>
+    <string name="pick_color">Selecione uma cor</string>
+    <string name="red">Vermelho</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+    <string name="purple">Roxo</string>
+    <string name="orange">Laranja</string>
+    <string name="white">Branco</string>
+    <string name="black">Preto</string>
+    <string name="action_apply">Aplicar</string>
+    <string name="applying">Aplicando o papel de parede...</string>
+
+</resources>
