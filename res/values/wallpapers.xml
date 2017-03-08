@@ -40,7 +40,69 @@
     <item>wallpaper_28</item>
     <item>wallpaper_29</item>
     <item>wallpaper_30</item>
-    <item>wallpaper_31</item>
+    <item>wallpaper_31</item> 
+    <item>wallpaper_32</item>
+    <item>wallpaper_33</item>
+    <item>wallpaper_34</item>
+    <item>wallpaper_35</item>
+    <item>wallpaper_36</item>
+    <item>wallpaper_37</item>
+    <item>wallpaper_38</item>
+    <item>wallpaper_39</item>
+    <item>wallpaper_40</item>
+    <item>wallpaper_41</item>
+    <item>wallpaper_42</item>
+    <item>wallpaper_43</item>
+    <item>wallpaper_44</item>
+    <item>wallpaper_45</item>
+    <item>wallpaper_46</item>
+    <item>wallpaper_47</item>
+    <item>wallpaper_48</item>
+    <item>wallpaper_49</item>
+    <item>wallpaper_50</item>
+    <item>wallpaper_51</item>
+    <item>wallpaper_52</item>
+    <item>wallpaper_53</item>
+    <item>wallpaper_54</item>
+    <item>wallpaper_55</item>
+    <item>wallpaper_56</item>
+    <item>wallpaper_57</item>
+    <item>wallpaper_58</item>
+    <item>wallpaper_59</item>
+    <item>wallpaper_60</item>
+    <item>wallpaper_61</item>
+    <item>wallpaper_62</item>
+    <item>wallpaper_63</item>
+    <item>wallpaper_64</item>
+    <item>wallpaper_65</item>
+    <item>wallpaper_66</item>
+    <item>wallpaper_67</item>
+    <item>wallpaper_68</item>
+    <item>wallpaper_69</item>
+    <item>wallpaper_70</item>
+    <item>wallpaper_71</item>
+    <item>wallpaper_72</item>
+    <item>wallpaper_73</item>
+    <item>wallpaper_74</item>
+    <item>wallpaper_75</item>
+    <item>wallpaper_76</item>
+    <item>wallpaper_77</item>
+    <item>wallpaper_78</item>
+    <item>wallpaper_79</item>
+    <item>wallpaper_80</item>
+    <item>wallpaper_81</item>
+    <item>wallpaper_82</item>
+    <item>wallpaper_83</item>
+    <item>wallpaper_84</item>
+    <item>wallpaper_85</item>
+    <item>wallpaper_86</item>
+    <item>wallpaper_87</item>
+    <item>wallpaper_88</item>
+	<item>wallpaper_89</item>
+	<item>wallpaper_90</item>
+	<item>wallpaper_91</item>
+	<item>wallpaper_92</item>
+	
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -52,8 +114,8 @@
     <item>Vintage by Renan Lopes</item>
     <item>Material Dark by Krapk</item>
     <item>Material Light by Krapk</item>
-    <item>Colors by BadBoy</item>
-    <item>Darkness by BadBoy</item>
+    <item>Colors by Rodrigo Souza Silva</item>
+    <item>DarknessRed by Andrey Mixmax</item>
     <item>German Soldier by Renan Lopes</item>
     <item>PC by Renan Lopes</item>
     <item>Material Park by Gabriel Bercelli</item>
@@ -63,8 +125,8 @@
     <item>Monstors by Renan Lopes</item>
     <item>Bubbles by Gabriel Bercelli</item>
     <item>Day by Renan Lopes</item>
-    <item>Material Blue by BadBoy</item>
-    <item>Material Brown by BadBoy</item>
+    <item>Material Blue by BadBoy</item
+	<item>Material Grey by BadBoy</item
     <item>Moonlight by Hamza</item>
     <item>Logo Black by Yasan</item>
     <item>Dark Grey by Yasan</item>
@@ -76,5 +138,71 @@
     <item>Dark Material6 by Yasan</item>
     <item>Dark Material7 by Yasan</item>
     <item>Logo Outline by Yasan</item>
+	<item>Material RevampBlue by Efren Rodriguez</item>
+	<item>Material RevampRed by Efren Rodriguez</item>
+	<item>Material RevampGreen by Efren Rodriguez</item>
+	<item>AEXTE by Andrey Mixmax</item>
+	<item>Desert by JP Kenji</item>
+	<item>Blur by JP Kenji</item>
+	<item>Blue by JP Kenji</item>
+	<item>Pink by JP Kenji</item>
+	<item>Rainbow JP Kenji</item>
+	<item>Desert 2 by JP Kenji</item>
+	<item>Purple by JP Kenji</item>
+	<item>Energy by JP Kenji</item>
+	<item>Water by JP Kenji</item>
+	<item>Fire by JP Kenji</item>
+	<item>Light by JP Kenji</item>
+	<item>Galaxy is Material by JP Kenji</item>
+	<item>Ice by JP Kenji</item>
+	<item>Papers by JP Kenji</item>
+	<item>Scene by JP Kenji</item>
+	<item>AEX Cross by JP Kenji</item>
+	<item>Earth by JP Kenji</item>
+	<item>Darkness by JP Kenji</item>
+	<item>Darkness Blue by JP Kenji</item>
+	<item>AEX Cross 2 by JP Kenji</item>
+	<item>Iron Man Extended by Rogerio Oliveria </item>
+	<item>Captain AEX by Rogerio Oliveria</item>
+	<item>Energy Blue  by Adithya Jayan</item>
+	<item>Energy Green by Adithya Jayan</item>
+	<item>Energy Red by Adithya Jayan</item>
+	<item>Energy Yellow by Adithya Jayan</item>
+	<item>Blue Sky by JP Kenji</item>
+	<item>Alien by Renan Lopes</item>
+	<item>Rocket by Krapk</item>
+	<item>Smoothness by Pavan Jadhav</item>
+	<item>Logo RemakeRed by BadBoy</item>
+	<item>Logo RemakeBlue by BadBoy</item>
+	<item>Logo RemakeDarkRed by BadBoy</item>
+	<item>Logo RemakeDarkBlue by BadBoy</item>
+	<item>AEX Yellow by Azeem Shaikh</item>
+	<item>AEX Pink by Azeem Shaikh</item>
+	<item>AEX by Azeem Shaikh</item>
+	<item>AEX Red by Azeem Shaikh</item>
+	<item>AEX iBlue by Azeem Shaikh</item>
+	<item>NeonPink by Renan Lopes</item>
+	<item>NeonDarkBlue by Renan Lopes</item>
+	<item>NeonDark by Renan Lopes</item>
+	<item>NeonGreen by Renan Lopes</item>
+	<item>NeonPurple by Renan Lopes</item>
+	<item>NeonBlood by Renan Lopes</item>
+	<item>Net by Andrey Mixmax</item>
+	<item>Reflecto by Andrey Mixmax</item>
+	<item>Grains by customworx</item>
+	<item>Grains Blue by customworx</item>
+	<item>Grains Red by customworx</item>
+	<item>DarkRed Grains by customworx</item>
+	<item>Grains Green by customworx</item>
+	<item>Grains Red by customworx</item>
+	<item>Iron Man by Azeem Shaikh</item>
+	<item>Iron Man by Azeem Shaikh</item>
+	<item>Iron Man by Azeem Shaikh</item>
+	<item>Yellow Stylo~ by Andrey Mixmax</item>
+	<item>Blue Wolf	by Andrey Mixmax</item>
+	<item>Dark Forest by Andrey Mixmax</item>
+	
+	
+	
     </string-array>
 </resources>
