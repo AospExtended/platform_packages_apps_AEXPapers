@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 XenonHD
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+
+    <string name="app_name">AEX 壁纸</string>
+    <string name="solid_color">纯色</string>
+    <string name="pick_color">选择一种颜色</string>
+    <string name="red">红色</string>
+    <string name="green">绿色</string>
+    <string name="blue">蓝色</string>
+    <string name="purple">紫色</string>
+    <string name="orange">橙色</string>
+    <string name="white">白色</string>
+    <string name="black">黑色</string>
+    <string name="action_apply">应用</string>
+    <string name="applying">正在应用壁纸...</string>
+
+</resources>
