@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 XenonHD
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+
+    <string name="app_name">AEX 桌布</string>
+    <string name="solid_color">純色</string>
+    <string name="pick_color">選擇一種顏色</string>
+    <string name="red">紅色</string>
+    <string name="green">綠色</string>
+    <string name="blue">藍色</string>
+    <string name="purple">紫色</string>
+    <string name="orange">橙色</string>
+    <string name="white">白色</string>
+    <string name="black">黑色</string>
+    <string name="action_apply">套用</string>
+    <string name="applying">正在套用桌布...</string>
+
+</resources>
